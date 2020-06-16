@@ -3,8 +3,8 @@
 
 Lista de organização dos exercícios:
 
-ex001 - Escrever "Olá mundo"
-ex002 - Responder ao usuário
+### ex001 - Escrever "Olá mundo"
+### ex002 - Responder ao usuário
 ex003 - Soma de 2 valores
 ex004 - Dissecando uma variável para saber se tem somente espaços, é numérico, é alfabético, é alfanumérico, é
         maiúsculo, é minúsculo e está captalizado.
