@@ -1,7 +1,7 @@
 # Exercícios python
  Exercícios resolvidos de python do Curso em Vídeo
 
-Lista de organização dos exercícios:
+**Lista de organização dos exercícios:**
 
 * ex001 - Escrever "Olá mundo"
 * ex002 - Responder ao usuário
