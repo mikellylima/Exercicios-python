@@ -48,3 +48,13 @@
 * ex043 - Classificação do peso por meio do IMC
 * ex044 - Cálculo do preço do produto de acordo com a condição de pagamento
 * ex045 - Programa para jogar jokenpô
+* ex046 - Contagem regressiva para estouro de fogos de artifício
+* ex047 - Imprimir todos os números pares entre 1 e 50
+* ex048 - Calcular a soma de todos os números ímpares múltiplos de 3 de 1 a 500
+* ex049 - Tabuada utilizando o laço for
+* ex050 - Ler 6 números inteiros e somar os pares
+* ex051 - Fazer os 10 primeiros termos de uma Progressão Aritmética
+* ex052 - Ler um número inteiro e dizer se é número primo
+* ex053 - Ler uma frase e saber se é palíndromo
+* ex054 - Indicação de maioridade de 7 pessoas por meio da data de nascimento
+* ex055 - Recebe o peso de 5 pessoas e indica qual o maior e qual o menor peso
